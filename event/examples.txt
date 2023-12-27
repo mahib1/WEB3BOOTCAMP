@@ -1,0 +1,15 @@
+\begin{itemize}
+  \item
+\end{itemize}
+
+
+
+\begin{pmatrix}
+
+\end{pmatrix}
+
+
+
+\begin{equation}
+
+\end{equation}

@@ -1,0 +1,32 @@
+\documentclass[a4paper,30pt]{report}
+
+\usepackage{amsmath}
+\usepackage{inputenc}
+\usepackage[margin=2cm]{geometry}
+\usepackage{graphicx}
+
+\title{\Huge{\textbf{Web3Bootcamp Summary}}}
+\author{MAHIB}
+
+\begin{document}
+  \maketitle\date{}\newpage
+  \tableofcontents\newpage
+  
+  \chapter{Summary}
+      Introduction to NSUT and WEB3 concept , definitions, and advantages.\\\\
+      Introduction to GIRLSCRIPT.TECH.\\\\
+      Introduction to NSUT IIF and their collaboration with GIRLSCRIPT.TECH.\\\\
+      Introduction to WEB3CAMP.\\\\
+    
+  \chapter{WEB3CAMP}
+      This year , we are back with the web3bootcamp. This has been an ongoing event since the last few years, but due to covid, we had to conduct it online
+      and this year, we are back with an offline one in a long time!\\\\
+      when we learn coding, we always learn the common languages like c++ , java, js, html etc , but we don't bother learning the newer languages and that is what we need to try because of the low risk high reward structure of the activity\\\\
+    
+      
+  \chapter{}
+
+  \chapter{}
+
+  \chapter{}
+\end{document}

@@ -118,30 +118,5 @@ we will visit hashing later\\\\
 
 
 
-  \chapter{Speaker 5 - Smart Contracts and Solidity}
-      \textbf{Solidity} is one of the many languages we use to write Smart Contracts for Etherium Tokens.\\\\
-      
-      \textbf{The Web2 Architecture} - We interact with the Frontend which sends the data to the Backend which stores that data in a data base.\\
-      The Web3 architecture is different because the frontend(Wallet) interacts with the blockchain and the Backend Services, Frontend Hostings.All the information pieces are immutable unlike web2 where devs can alter the database as they want. The backend services can interact with the blockchain using code with some libraries like web3.js and ether.js. These services also connect to the decentralised storage.\\\\
-
-      \section{Aspects of DApps}
-          \begin{itemize}
-            \item Building Smart Contracts
-            \item Developing clients to talk to the Blockchain.
-          \end{itemize}
-
-          \textbf{Smart Contracts} as talked about before, are self executing pieces of code which automate the actions required in an agreement or contract.\\\\
-          Once completed , the transactions are trackable and irreversible. One more benefit is that they don't contain any legal language, terms, or agreements, onle code that executes actions when certain conditions are met.\\\\
-          It is like a digital vending machine, the only significance of a smart contract over a real physical one is that the output is 100\% deterministic and can't be reversed, and 100\% fair in the terms.\\\\
-
-          How smart contracts work is that the users interact with the browser web3 provider like MetaMask using plugins etc. the metamask plugin can itself view and interact with \textbf{EVM - Etherium Virtual Machine} where the smart contracts are deployed and executed.\\\\
-          The steps are - 
-          \begin{itemize}
-            \item Deploying the smart contract on the blockchain
-            \item Reading/Writing/Interacting with the deployed contract through EVM 
-            \item Sending the transactions to the deployed contract 
-          \end{itemize}
-          Any event or action is reffered to as a \textbf{Transaction}.
-
-          To use a contract, we write code and use a \textbf{Solidity Compiler} to compile the code into 2 parts , \textbf{ABI, and Byte Code} , the byte code is then fed into the Etherium Blockchain for interaction.
+  \chapter{}
 \end{document}

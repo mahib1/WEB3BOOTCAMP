@@ -16,4 +16,4 @@
 \contentsline {section}{\numberline {5.1}How NFTs work?}{8}{}%
 \contentsline {section}{\numberline {5.2}NFTs in Gaming}{9}{}%
 \contentsline {chapter}{\numberline {6}Speaker 5 - Smart Contracts and Solidity}{10}{}%
-\contentsline {section}{\numberline {6.1}Aspects od DApps}{10}{}%
+\contentsline {section}{\numberline {6.1}Aspects of DApps}{10}{}%
